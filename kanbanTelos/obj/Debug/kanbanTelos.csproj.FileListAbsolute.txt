@@ -1,0 +1,7 @@
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\bin\Debug\kanbanTelos.exe.config
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\bin\Debug\kanbanTelos.exe
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\bin\Debug\kanbanTelos.pdb
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\obj\Debug\kanbanTelos.csproj.AssemblyReference.cache
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\obj\Debug\kanbanTelos.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\obj\Debug\kanbanTelos.exe
+C:\Users\Vitor Henrique\source\repos\kanbanTelos\kanbanTelos\obj\Debug\kanbanTelos.pdb
