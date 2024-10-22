@@ -1,4 +1,4 @@
-echo "# Kanban Telos - Sistema de Gerenciamento de Tarefas
+# Kanban Telos - Sistema de Gerenciamento de Tarefas
 
 Este repositório contém o código C# para a criação e manipulação de um sistema de gerenciamento de tarefas, **TaskMaster**. O sistema permite organizar tarefas em três estados: **A Fazer**, **Em Progresso** e **Concluído**, além de possibilitar mover tarefas entre essas categorias.
 
