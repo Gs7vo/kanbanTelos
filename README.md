@@ -41,21 +41,9 @@ Após executar o programa, o usuário terá as seguintes opções no menu princi
 3. **Mover tarefa**: Move uma tarefa de uma lista para outra.
 4. **Sair**: Encerra o programa.
 
-Exemplo de exibição de tarefas:
 
-\`\`\`
-Tarefas 'A Fazer':
-1. Estudar C#
-2. Finalizar projeto
-
-Tarefas 'Em Progresso':
-Nenhuma tarefa nesta lista.
-
-Tarefas 'Concluído':
-Nenhuma tarefa nesta lista.
-\`\`\`
 
 ## Autor
 
-**Gustavo Martins**. Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-martins-1b031929b/)." > README.md
+**Gustavo Martins**. Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-martins-1b031929b/).
 
